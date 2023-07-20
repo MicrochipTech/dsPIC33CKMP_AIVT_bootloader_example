@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/dspic33ck256mp508_boot.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>24576</length>
+      <used>558</used>
+      <free>24018</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>269184</length>
+      <used>265533</used>
+      <free>3651</free>
+    </memory>
+  </executable>
+</project>

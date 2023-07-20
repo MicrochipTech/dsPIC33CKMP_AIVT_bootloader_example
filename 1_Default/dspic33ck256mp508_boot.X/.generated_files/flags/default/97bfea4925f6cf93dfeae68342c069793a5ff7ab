@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -O0 -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"D:\MPLABXProjects\SIAuto_dspic33ck_timer\dspic33ck256mp508_boot.X\mcc_generated_files\boot\boot_verify_not_blank.c
